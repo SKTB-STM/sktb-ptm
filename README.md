@@ -1,2 +1,2 @@
-# SKTB-0001-01
-Repository *SKTB-0001-01*
+# SKTB-PTM
+Repository *SKTB-PTM*
